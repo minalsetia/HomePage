@@ -1,0 +1,18 @@
+@import 'tailwindcss';
+
+
+:root {
+  -academicBlue: #1672EC;
+  -academicLightGrey: #e1edfb;
+  -academicMidGrey: #7c84a3;
+  -academicDarkGrey: #404454;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body{
+  font-family: 'Playfair Display', serif;
+
+}
